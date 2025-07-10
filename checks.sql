@@ -9,3 +9,6 @@ SELECT count(*) FROM computers;
 
 -- test 4: count mobile_devices
 SELECT count(*) FROM mobile_devices;
+
+-- test 5: find knobs
+SELECT * FROM jss_custom_settings
